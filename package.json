@@ -10,7 +10,7 @@
     "js-yaml": "^3.7.0",
     "mem": "^1.1.0",
     "micromatch": "^2.3.11",
-    "node-notifier": "^5.4.5",
+    "node-notifier": "^8.0.1",
     "os-locale": "^2.1.0",
     "postcss-svgo": "^2.1.6",
     "react": "^16.2.0",
