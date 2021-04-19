@@ -5,7 +5,7 @@
   "dependencies": {
     "braces": "^3.0.2",
     "chokidar": "^3.5.1",
-    "is-svg": "^2.1.0",
+    "is-svg": "^4.2.2",
     "jest-cli": "^20.0.4",
     "js-yaml": "^3.7.0",
     "mem": "^1.1.0",
